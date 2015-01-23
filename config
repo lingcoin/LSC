@@ -1,0 +1,15 @@
+rpcuser=lscoinrpc
+rpcpassword=egvxdAWxnXNQGX83y9cvbFjTdtQ6b6cvTt153wfdsv
+listen=1
+server=1
+daemon=1
+addnode=112.124.102.170
+
+reservebalance=50000rpcuser=lscoinrpc
+rpcpassword=egvxdAWxnXNQGX83y9cvbFjTdtQ6b6cvTt153wfdsva
+listen=1
+server=1
+daemon=1
+addnode=112.124.102.110
+
+reservebalance=50000
